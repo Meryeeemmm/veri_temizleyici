@@ -1,5 +1,0 @@
-
-`clean_data.json` → Temizlenmiş veri seti; tekrar eden veriler çıkarıldıktan sonra geriye kalan, kullanıma hazır veriler.
-`duplicate_pairs.json` → Tam olarak aynı olan veri çiftleri; hangi veriler birebir kopyaysa bunları gösterir.
-`removed_items.json` → Temizleme sırasında silinen veriler; tekrar edenlerden çıkarılan kayıtlar.
-`similar_pairs.json` → Benzer ama tam aynı olmayan veri çiftleri; anlam olarak yakın olan verileri ve benzerlik skorlarını içerir.
