@@ -4,7 +4,7 @@ import ctypes
 from rapidfuzz import fuzz
 
 # --- AYARLAR ---
-JSON_DOSYA = "techdeen_old_30072025.json"
+JSON_DOSYA = "DOSYA_ADI_GİR.json"
 BENZERLIK_ESIGI = 85
 PROGRESS_LOG_EVERY = 50  # her 50 veri karşılaştırmada ilerleme logu
 
